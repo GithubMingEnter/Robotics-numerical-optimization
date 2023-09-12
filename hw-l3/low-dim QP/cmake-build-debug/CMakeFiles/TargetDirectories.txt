@@ -1,0 +1,3 @@
+/home/ming/文档/numerical_optimization/L3/HW3/low-dim QP/cmake-build-debug/CMakeFiles/sdqp_example.dir
+/home/ming/文档/numerical_optimization/L3/HW3/low-dim QP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ming/文档/numerical_optimization/L3/HW3/low-dim QP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
