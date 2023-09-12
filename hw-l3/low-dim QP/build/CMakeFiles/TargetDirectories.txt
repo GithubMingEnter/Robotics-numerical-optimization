@@ -1,0 +1,3 @@
+/home/lwm/file/numerical optimization/HW3/low-dim QP/build/CMakeFiles/rebuild_cache.dir
+/home/lwm/file/numerical optimization/HW3/low-dim QP/build/CMakeFiles/sdqp_example.dir
+/home/lwm/file/numerical optimization/HW3/low-dim QP/build/CMakeFiles/edit_cache.dir
